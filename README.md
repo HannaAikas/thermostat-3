@@ -1,6 +1,8 @@
-# Thermostat - Week 3 Challenge - Progress as at Thursday 22 Aug 2019:
+# Thermostat - Week 3 Challenge - Progress as at Fri 23 Aug 2019:
 * Business Logic done - Implemented all user stories
-* To do next: interface, jQuery, APIs, styling, saving state
+* Interface done using jQuery
+* API to show current weather
+* To do next: styling, saving state
 
 # Thermostat: business logic
 
